@@ -7,5 +7,8 @@ public class ABCD {
 		for (char i = 'A'; i<= 'Z'; i++) {
 			System.out.print(i+ " ");
 		}	
+		
+		
+		
 		}
 	}
